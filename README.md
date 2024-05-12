@@ -34,9 +34,9 @@ Para la realización de este proyecto se plantean las siguientes metas a cumplir
 
 
 ## Referencias
+La información disponible para la realización del proyecto es la siguiente:
 
-
-
-
-
-
+- **Lineturtle ROS2 Package** [github repository](https://github.com/robofuntastic/lineturtle/tree/main?tab=readme-ov-file)
+- **Differential drive robot using ROS2 and ESP32**[Blog](https://www.hackster.io/amal-shaji/differential-drive-robot-using-ros2-and-esp32-aae289)
+- **How to control a DC motor with an encoder**[Youtube](https://www.youtube.com/watch?v=dTGITLnYAY0)
+- **Low Cost PID Controller for Student Digital Control Laboratory Based on Arduino or STM32 Modules**[Journal](https://www.mdpi.com/2079-9292/12/15/3235)
